@@ -71,3 +71,10 @@ Me gusta colaborar con la comunidad 🤝, aprender de forma constante 📚 y fac
 <a href="https://github.com/HugoBrandonHc/security-incidents"><img src="https://github.com/HugoBrandonHc/HugoBrandonHc/blob/main/img/gestion-incidentes-aws.png" style="height: 60%; width:60%;"/></a>
 
 [![Roadmap](https://img.shields.io/github/stars/HugoBrandonHc/security-incidents)](https://github.com/HugoBrandonHc/security-incidents)
+
+## Contacto y apoyo:
+
+
+[![Email](https://img.shields.io/badge/hugobrandon17@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hugobrandon17@gmail.com)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://buymeacoffee.com/hugobrandon)
