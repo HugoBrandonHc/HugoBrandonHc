@@ -55,12 +55,12 @@ Me gusta colaborar con la comunidad 🤝, aprender de forma constante 📚 y fac
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
 
@@ -70,4 +70,4 @@ Me gusta colaborar con la comunidad 🤝, aprender de forma constante 📚 y fac
 
 <a href="https://github.com/HugoBrandonHc/security-incidents"><img src="https://github.com/HugoBrandonHc/HugoBrandonHc/blob/main/img/gestion-incidentes-aws.png" style="height: 60%; width:60%;"/></a>
 
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/HugoBrandonHc/security-incidents)
+[![Roadmap](https://img.shields.io/github/stars/HugoBrandonHc/security-incidents)](https://github.com/HugoBrandonHc/security-incidents)
