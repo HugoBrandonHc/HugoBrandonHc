@@ -64,10 +64,10 @@ Me gusta colaborar con la comunidad 🤝, aprender de forma constante 📚 y fac
 </p>
 </br>
 
-# Algunos proyectos de la comunidad
+# Proyectos realizados
 
-## Ruta de estudio programación
+## 🛡️ Gestión de Incidentes de Seguridad - Proyecto en AWS
 
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/HugoBrandonHc/security-incidents"><img src="https://github.com/HugoBrandonHc/HugoBrandonHc/blob/main/img/gestion-incidentes-aws.png" style="height: 60%; width:60%;"/></a>
 
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
+[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/HugoBrandonHc/security-incidents)
