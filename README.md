@@ -44,3 +44,30 @@ Me gusta colaborar con la comunidad 🤝, aprender de forma constante 📚 y fac
     <a href="https://github.com/HugoBrandonHc"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/HugoBrandonHc"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/HugoBrandonHc"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+
+### 🗄️ Cloud Computing - Hosting/SaaS
+
+<p>
+    <a href="https://github.com/HugoBrandonHc"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="https://github.com/HugoBrandonHc"><img alt="AZURE" src ="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</p>
+</br>
+
+# Algunos proyectos de la comunidad
+
+## Ruta de estudio programación
+
+<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
